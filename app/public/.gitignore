@@ -1,6 +1,5 @@
 # -- Wordpress ------------------------------
 wp-admin/*
-wp-content/plugins/*
 wp-content/uploads/*
 wp-includes/*
 wp-config.php
